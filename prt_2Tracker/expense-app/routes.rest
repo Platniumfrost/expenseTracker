@@ -1,0 +1,8 @@
+
+### get tooele tech route GET http://localhost:3000/ttech HTTP/1.1
+
+
+{
+    "firstName": "emily", "lastName": "briggs", "email": "grinningtickingclocker@gmail.com", "password": "Ticker1Tocker2",
+
+}
